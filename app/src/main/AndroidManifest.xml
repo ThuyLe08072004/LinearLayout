@@ -19,7 +19,7 @@
             android:name=".CONSTRAINTLAYOUT2"
             android:exported="false" />
         <activity
-            android:name=".CONSTRAINTLAYOUT1"
+            android:name=".ConstrainLayoutActivityEx1"
             android:exported="false" />
         <activity
             android:name=".RELATIVELAYOUT3"

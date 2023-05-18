@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class CONSTRAINTLAYOUT1 extends AppCompatActivity {
+public class ConstrainLayoutActivityEx1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

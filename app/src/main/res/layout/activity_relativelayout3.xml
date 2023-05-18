@@ -10,15 +10,15 @@
         android:layout_height="match_parent">
         <View
             android:id="@+id/view1"
-            android:layout_width="200dp"
+            android:layout_width="@dimen/half_screen_width"
             android:layout_height="50dp"
-            android:background="#e8d33636" />
+            android:background="@color/red_bg" />
         <View
             android:id="@+id/view2"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:layout_below="@id/view1"
             android:layout_toEndOf="@id/view1"
-            android:background="#E853D336" />
+            android:background="@color/blue_bg" />
     </RelativeLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
